@@ -1655,7 +1655,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = ZHVJZ82B29;
+				DEVELOPMENT_TEAM = XRPT9476BM;
 				INFOPLIST_FILE = MomentingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "app-huaral.com.MomentingTests";
@@ -1672,7 +1672,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = ZHVJZ82B29;
+				DEVELOPMENT_TEAM = XRPT9476BM;
 				INFOPLIST_FILE = MomentingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "app-huaral.com.MomentingTests";
