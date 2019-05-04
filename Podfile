@@ -1,7 +1,7 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+# platform :ios, '10.0'
 
-target 'Momenting' do
+target 'FunGame' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 pod 'Masonry', '~> 1.0.2'
@@ -10,14 +10,17 @@ pod 'AFNetworking', '3.1.0'
 pod 'WebViewJavascriptBridge', '6.0.2'
 pod 'JPush', '3.1.0'
 pod 'SDWebImage', '~> 3.8.2'
-  # Pods for Momenting
+pod 'YYKit', '1.0.9'
+pod 'SVProgressHUD', '2.2.5'
 
-  target 'MomentingTests' do
+  # Pods for FunGame
+
+  target 'FunGameTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'MomentingUITests' do
+  target 'FunGameUITests' do
     inherit! :search_paths
     # Pods for testing
   end
